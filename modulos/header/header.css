@@ -1,0 +1,27 @@
+header {
+    border: 1px solid #F5F5F5;
+    background-color: #F5F5F5;
+    width: 1440px;
+    height: 42px;
+    align-items: center;
+    text-align: left;
+    display: flex;
+
+}
+
+p {
+    margin-left: 120px;
+    padding: 5px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.imgs {
+    padding-left: 55rem;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-direction: row;
+    gap: 25px;
+
+}
