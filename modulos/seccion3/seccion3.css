@@ -53,33 +53,6 @@
  }
  
  
- 
- 
- .smartphones {
-    border-bottom: 1px solid black;
-    width: 1250px;
-    margin-left: 120px;
-    margin-top: 100px;
-    padding: 20px;
- 
- 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
- 
- 
- 
- 
- }
- span {
-    display: flex;
-    margin-left: 0px;
-    font-size: 22px;
-    white-space: nowrap;
-    color: #666666;
- }
- 
- 
  .reloj{
     width: 268px;
     height: 270px;
@@ -94,15 +67,17 @@
     width: 509px;
     height: 316px;
     position: absolute;
-    left:815px;
-    margin-top: -205px;
+    display: flex;
+    margin-left:680px;
+    margin-top: -285px;
  }
  
  
  .izquierda {
     width: 86px;
     height: 86px;
-    left: 77px;
+    display: flex;
+    margin-left: -40px;
     margin-top: 120px;
     position: absolute;
  }
@@ -111,8 +86,41 @@
  .derecha {
     width: 86px;
     height: 86px;
-    right: 0px;
-    margin-top: -80px;
+    display: flex;
+    margin-left: 1150px;
+    margin-top: -160px;
     position: absolute;
  }
  
+ .Smartphones {
+   border-bottom: 1px solid black;
+   width: 1250px;
+   margin-left: 120px;
+   margin-top: 100px;
+   padding: 20px;
+
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+}
+span {
+   display: flex;
+   margin-left: 0px;
+   font-size: 22px;
+   white-space: nowrap;
+   color: #666666;
+}
+
+
+.smart {
+   color: #008ECC;
+}
+
+
+.view {
+   width: 82px;
+   height: 18px;
+   margin-left:680px;
+}
