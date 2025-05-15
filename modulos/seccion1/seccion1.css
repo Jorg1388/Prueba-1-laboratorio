@@ -1,0 +1,47 @@
+.header2 {
+    width: 1440px;
+    height: 90px;
+    margin-top: 42px;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+   
+ }
+ 
+ 
+ .menu {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: left;
+    border-radius: 10px;
+    margin-left: 120px;
+ }
+ 
+ 
+ .logo {
+    width: 150px;
+    height: 28px;
+    margin-top: 10px;
+    padding: 2px;
+    margin-left: 20px;
+ }
+ 
+ 
+ .buscador {
+    width: 507px;
+    height: 48px;
+    margin-left: 195px;
+ }
+ 
+ 
+ .logos {
+    width: 241px;
+    height: 24px;
+    margin-top: 13px;
+    margin-left: 45px;
+ }
+ 
+ 
+ 
