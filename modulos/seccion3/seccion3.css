@@ -1,0 +1,118 @@
+.cuadro3 {
+    border: 1px solid #212844;
+    background-color: #212844;
+    width: 1201px;
+    height: 316px;
+    margin-top: 30px;
+    margin-left: 120px;
+    border-radius: 16px;
+ 
+ 
+ }
+ 
+ 
+ .subtitulo {
+    width: 464px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 23px;
+    color: #FFFFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ 
+ .titulo {
+    width: 574px;
+    height: 56px;
+    margin-left: 100px;
+    margin-top: 7px;
+    font-size: 63px;
+    color: #FFFFFF;
+ }
+ 
+ 
+ .subtitulo2 {
+   width: 202px;
+   height: 30px;
+   margin-left: 100px;
+   margin-top: 30px;
+   font-size: 22px;
+   color: #FFFFFF;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ 
+ .group17 {
+    width: 114px;
+    height: 8px;
+    margin-top: 70px;
+    margin-left: 100px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ .smartphones {
+    border-bottom: 1px solid black;
+    width: 1250px;
+    margin-left: 120px;
+    margin-top: 100px;
+    padding: 20px;
+ 
+ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+ 
+ 
+ 
+ }
+ span {
+    display: flex;
+    margin-left: 0px;
+    font-size: 22px;
+    white-space: nowrap;
+    color: #666666;
+ }
+ 
+ 
+ .reloj{
+    width: 268px;
+    height: 270px;
+    position: absolute;
+    display: flex;
+    margin-left: 815px;
+    margin-top: -250px;
+ }
+ 
+ 
+ .img4{
+    width: 509px;
+    height: 316px;
+    position: absolute;
+    left:815px;
+    margin-top: -205px;
+ }
+ 
+ 
+ .izquierda {
+    width: 86px;
+    height: 86px;
+    left: 77px;
+    margin-top: 120px;
+    position: absolute;
+ }
+ 
+ 
+ .derecha {
+    width: 86px;
+    height: 86px;
+    right: 0px;
+    margin-top: -80px;
+    position: absolute;
+ }
+ 
