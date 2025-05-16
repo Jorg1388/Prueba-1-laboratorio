@@ -1,0 +1,242 @@
+.subtitulo6 {
+    border-bottom: 1px solid #666666;
+    width: 1250px;
+    margin-left: 120px;
+    margin-top: 280px;
+    padding: 20px;
+ 
+ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+ }
+ .s3 {
+    width: 245px;
+    height: 46px;
+    padding: 12px;
+    display: flex;
+    margin-left: -30px;
+    font-size: 22px;
+    color: #666666;
+ }
+ 
+ 
+ .s4 {
+    padding: 5px;
+    font-size: 22px;
+    margin-left: -175px;
+    color: #008ECC;
+ }
+ 
+ 
+ .view {
+    width: 82px;
+    height: 18px;
+    margin-left:680px;
+ }
+
+ .comida {
+   width: 1440px;
+   height: 90px;
+   padding: 20px;
+   display: flex;
+   flex-direction: column;
+   flex-direction: row;
+}
+
+ .cuadro4 {
+    width: 187px;
+    height: 187px;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+ }
+
+.essentials {
+    width: 183px;
+    height: 122px;
+    margin-left: -182px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+.s5 {
+    width: 160px;
+    height: 20px;
+    font-size: 12px;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    margin-top: -5px;
+}
+
+.porciento {
+    width: 160px;
+    height: 20px;
+    font-size: 20px;
+    margin-left: 120px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro5 {
+   width: 187px;
+   height: 187px;
+   margin-left: 15px;
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.vegitables {
+   width: 145px;
+   height: 164px;
+   margin-left: -165px;
+   margin-top: 55px;
+   position: absolute;
+}
+
+.s6 {
+   width: 160px;
+   height: 20px;
+   font-size: 12px;
+   margin-left: 70px;
+   margin-bottom: 5px;
+}
+
+.porciento1 {
+   width: 160px;
+   height: 20px;
+   font-size: 20px;
+   margin-left: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro6 {
+   width: 187px;
+   height: 187px;
+   margin-left: -5px;
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.fruits {
+   width: 176px;
+   height: 153px;
+   margin-left: -182px;
+   margin-top: 50px;
+   position: absolute;
+}
+
+.s7 {
+   width: 160px;
+   height: 20px;
+   font-size: 12px;
+   margin-left: 70px;
+   margin-bottom: 5px;
+}
+
+.porciento2 {
+   width: 160px;
+   height: 20px;
+   font-size: 20px;
+   margin-left: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro7 {
+   width: 187px;
+   height: 187px;
+   margin-left: -20px;
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.strowberry {
+   width: 166px;
+   height: 102px;
+   margin-left: -178px;
+   margin-top: 80px;
+   position: absolute;
+}
+
+.s8 {
+   width: 160px;
+   height: 20px;
+   font-size: 12px;
+   margin-left: 35px;
+   margin-bottom: 5px;
+}
+
+.porciento3 {
+   width: 160px;
+   height: 20px;
+   font-size: 20px;
+   margin-left: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro8 {
+   width: 187px;
+   height: 187px;
+   margin-left: -5px;
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.mango {
+   width: 168px;
+   height: 136px;
+   margin-left: -178px;
+   margin-top: 60px;
+   position: absolute;
+}
+
+.s9 {
+   width: 160px;
+   height: 20px;
+   font-size: 12px;
+   margin-left: 65px;
+   margin-bottom: 5px;
+}
+
+.porciento4 {
+   width: 160px;
+   height: 20px;
+   font-size: 20px;
+   margin-left: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro9 {
+   width: 187px;
+   height: 187px;
+   margin-left: -25px;
+   margin-top: 40px;
+   margin-bottom: 5px;
+}
+
+.cherry {
+   width: 132px;
+   height: 148px;
+   margin-left: -158px;
+   margin-top: 55px;
+   position: absolute;
+}
+
+.s10 {
+   width: 160px;
+   height: 20px;
+   font-size: 12px;
+   margin-left: 45px;
+   margin-bottom: 5px;
+}
+
+.porciento5 {
+   width: 160px;
+   height: 20px;
+   font-size: 20px;
+   margin-left: 5px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
