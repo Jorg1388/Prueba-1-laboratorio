@@ -92,7 +92,7 @@
     position: absolute;
  }
  
- .Smartphones {
+ .subtitulo3 {
    border-bottom: 1px solid black;
    width: 1250px;
    margin-left: 120px;
@@ -106,15 +106,17 @@
 
 }
 span {
+   width: 378px;
+   height: 30px;
    display: flex;
-   margin-left: 0px;
+   margin-left: -10px;
    font-size: 22px;
-   white-space: nowrap;
    color: #666666;
 }
 
 
 .smart {
+   margin-left: -35px;
    color: #008ECC;
 }
 
@@ -124,3 +126,4 @@ span {
    height: 18px;
    margin-left:680px;
 }
+
