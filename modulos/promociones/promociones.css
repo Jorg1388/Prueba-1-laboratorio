@@ -1,0 +1,72 @@
+.subtitulo5 {
+    border-bottom: 1px solid black;
+    width: 1250px;
+    margin-left: 120px;
+    margin-top: 200px;
+    padding: 20px;
+ 
+ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+ }
+ .s2 {
+    width: 245px;
+    height: 46px;
+    padding: 12px;
+    display: flex;
+    margin-left: -10px;
+    font-size: 22px;
+    color: #666666;
+ }
+ 
+ 
+ .promo {
+    padding: 5px;
+    font-size: 22px;
+    margin-left: -190px;
+    color: #008ECC;
+ }
+ 
+ 
+ .view {
+    width: 82px;
+    height: 18px;
+    margin-left:680px;
+ }
+
+ .promociones {
+    width: 1440px;
+    height: 90px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-direction: row;
+ }
+
+ .promo1 {
+  width: 420px;
+  height: 307px;
+  margin-left: 80px;  
+ }
+
+ .promo2 {
+    width: 420px;
+    height: 307px;
+    margin-left: 10px;  
+}
+
+.promo3 {
+    width: 420px;
+    height: 307px;
+    margin-left: -10px;  
+}
+
+.puntos {
+    width: 114px;
+    height: 8px;
+    margin-left: -690px;
+    margin-top: 250px;
+
+}
