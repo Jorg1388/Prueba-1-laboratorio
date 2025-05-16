@@ -1,0 +1,108 @@
+.subtitulo4 {
+    border-bottom: 1px solid black;
+    width: 1250px;
+    margin-left: 120px;
+    margin-top: 300px;
+    padding: 20px;
+ 
+ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+ }
+ .s1 {
+    width: 371px;
+    height: 30px;
+    display: flex;
+    margin-left: -10px;
+    font-size: 22px;
+    color: #666666;
+ }
+ 
+ 
+ .categories {
+    padding: 5px;
+    font-size: 22px;
+    margin-left: -190px;
+    color: #008ECC;
+ }
+ 
+ 
+ .view {
+    width: 82px;
+    height: 18px;
+    margin-left:680px;
+ }
+
+ .shop {
+    width: 1440px;
+    height: 90px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-direction: row;
+ }
+
+ .mobile1 {
+    margin-left: 80px;
+ }
+
+ .cosmetics {
+    margin-left: 45px;
+ }
+
+ .electronics {
+    margin-left: 45px;
+ }
+
+ .furniture1 {
+    margin-left: 45px;
+ }
+
+ .furniture2 {
+    width: 124px;
+    height: 124px;
+    display: flex;
+    margin-left: 48px;
+    margin-top: -170px;
+ }
+
+ .watches1 {
+    margin-left: 45px;
+ }
+
+ .watches2 {
+    width: 92px;
+    height: 92px;
+    display: flex;
+    margin-left: 62px;
+    margin-top: -155px;
+ }
+
+ .decor1 {
+    margin-left: 45px;
+ }
+
+ .decor2 {
+    width: 118px;
+    height: 118px;
+    display: flex;
+    margin-left: 48px;
+    margin-top: -170px;
+ }
+
+ .accessories1 {
+    margin-left: 45px;
+ }
+
+ .accessories2 {
+    width: 124px;
+    height: 124px;
+    display: flex;
+    margin-left: 45px;
+    margin-top: -170px;
+
+ }
+ 
+ 
