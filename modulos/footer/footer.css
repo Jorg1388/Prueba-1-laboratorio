@@ -1,0 +1,85 @@
+.footer2 {
+    width: 1440px;
+    height: 592px;
+    margin-left: -10px;
+    margin-top: 400px;
+    background-color: #008ECC;
+ }
+
+.mega {
+    width: 217px;
+    height: 104px;
+    margin-left: 120px;
+    margin-top: -530px;
+    font-size: 50px;
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.contact {
+    width: 200px;
+    height: 20px;
+    margin-left: 120px;
+    margin-top: -20px;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.whats {
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.call {
+    margin-left: -170px;
+}
+
+.app {
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.descargar {
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.categorias2 {
+    margin-top: -800px;
+    margin-left: 80px;
+    margin-bottom: -2px;
+}
+
+.servicios {
+    margin-bottom: 70px;
+    margin-top: -830px;
+    margin-left: 60px;
+}
+
+.img5 {
+    position: absolute;
+    margin-bottom: 42px;
+    margin-left: 15px;
+    margin-top: -342px;
+}
+
+.linea1 {
+    margin-left: 120px;
+    margin-top: 80px;
+}
+
+.derechos {
+    margin-top: 20px;
+    width: 800px;
+    height: 20px;
+    font-size: 22px;
+    margin-left: 500px;
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
