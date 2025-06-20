@@ -16,23 +16,25 @@
     display: flex;
     justify-content: left;
     border-radius: 10px;
-    margin-left: 120px;
+    margin-left: 80px;
  }
  
  
  .logo {
     width: 150px;
     height: 28px;
-    margin-top: 10px;
+    margin-top: -10px;
+    font-size: 45px;
     padding: 2px;
     margin-left: 20px;
+    color: #008ECC;
  }
  
  
  .buscador {
     width: 507px;
     height: 48px;
-    margin-left: 195px;
+    margin-left: 185px;
  }
  
  

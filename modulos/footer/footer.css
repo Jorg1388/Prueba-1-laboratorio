@@ -1,85 +1,145 @@
-.footer2 {
+.footer {
     width: 1440px;
     height: 592px;
-    margin-left: 40px;
-    margin-top: 400px;
+    margin-top: 325px;
     background-color: #008ECC;
+    position: relative;
  }
 
-.mega {
+ .mega {
     width: 217px;
-    height: 104px;
+    height: 44px;
     margin-left: 120px;
-    margin-top: -530px;
-    font-size: 50px;
+    font-size: 70px;
+    font-weight: 800;
+    padding-top: 50px;
     color: #FFFFFF;
-    font-family: Georgia, 'Times New Roman', Times, serif
-}
+ }
 
-.contact {
-    width: 200px;
+ .contact {
+    width: 160px;
     height: 20px;
-    margin-left: 120px;
-    margin-top: -20px;
+    margin-left: 123px;
     font-size: 20px;
+    font-weight: 700;
+    margin-top: 110px;
     color: #FFFFFF;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+ }
 
 .whats {
+    width: 163px;
+    height: 42px;
     margin-left: 120px;
-    margin-top: 30px;
-    margin-bottom: 60px;
+    margin-top: 40px;
 }
 
 .call {
-    margin-left: -170px;
+    width: 163px;
+    height: 43px;
+    margin-left: -165px;
+    margin-bottom: -60px;
 }
 
 .app {
     width: 200px;
     height: 20px;
+    margin-left: 120px;
+    margin-top: 70px;
     font-size: 20px;
-    margin-top: 20px;
+    font-weight: 700;
     color: #FFFFFF;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .descargar {
-    margin-top: 30px;
+    width: 378px;
+    height: 56px;
     margin-left: 120px;
+    margin-top: 35px;
 }
 
-.categorias2 {
-    margin-top: -800px;
-    margin-left: 80px;
-    margin-bottom: -2px;
-}
-
-.servicios {
-    margin-bottom: 70px;
-    margin-top: -830px;
-    margin-left: 60px;
-}
-
-.img5 {
-    position: absolute;
-    margin-bottom: 42px;
-    margin-left: 65px;
-    margin-top: -342px;
-}
-
-.linea1 {
-    margin-left: 120px;
-    margin-top: 80px;
-}
-
-.derechos {
-    margin-top: 20px;
-    width: 800px;
+.popular {
+    width: 400px;
     height: 20px;
-    font-size: 22px;
-    margin-left: 500px;
+    margin-left: 580px;
+    margin-top: -350px;
+    font-size: 20px;
+    font-weight: 600;
     color: #FFFFFF;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.linea {
+    width: 280px;
+    border: 3px solid #FFFFFF;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 580px;
+}
+
+.items {
+    width: 400px;
+    height: 296px;
+    margin-left: 600px;
+    margin-top: 40px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8 {
+    margin-top: 10px;
+}
+
+.services {
+    width: 400px;
+    height: 20px;
+    margin-left: 920px;
+    margin-top: -380px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.linea2 {
+    width: 210px;
+    border: 3px solid #FFFFFF;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 920px;
+}
+
+.items2 {
+    width: 500px;
+    height: 296px;
+    margin-left: 940px;
+    margin-top: 40px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.item9, .item10, .item12, .item13, .item14 {
+    margin-top: 10px;
+}
+
+.img-circle {
+    position: absolute;
+    margin-left: 1120px;
+    margin-top: -480px;
+}
+
+.linea3 {
+    width: 1200px;
+    border: 1px solid #05ABF3;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.tx1 {
+    width: 590px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 450px;
+    color: #FFFFFF;
 }
